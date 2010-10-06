@@ -1,0 +1,145 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">True</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="public" priority="17" />
+      <Item value="iterator" priority="0" />
+      <Item value="int" priority="26" />
+      <Item value="private" priority="9" />
+      <Item value="double" priority="4" />
+      <Item value="new" priority="4" />
+      <Item value="static" priority="0" />
+      <Item value="SIZE" priority="1" />
+      <Item value="BinarySearch`0" priority="0" />
+      <Item value="for" priority="2" />
+      <Item value="elements" priority="0" />
+      <Item value="Math`0" priority="0" />
+      <Item value="Size" priority="0" />
+      <Item value="while" priority="3" />
+      <Item value="curIn" priority="5" />
+      <Item value="upperBound" priority="2" />
+      <Item value="lowerBound" priority="3" />
+      <Item value="if" priority="11" />
+      <Item value="_elements" priority="1" />
+      <Item value="searchKey" priority="1" />
+      <Item value="return" priority="14" />
+      <Item value="else" priority="3" />
+      <Item value="void" priority="8" />
+      <Item value="out" priority="0" />
+      <Item value="outIndex" priority="3" />
+      <Item value="nElems" priority="0" />
+      <Item value="inIndex" priority="8" />
+      <Item value="a" priority="5" />
+      <Item value="temp" priority="2" />
+      <Item value="bool" priority="4" />
+      <Item value="interface" priority="0" />
+      <Item value="IQueue`0" priority="0" />
+      <Item value="const" priority="0" />
+      <Item value="IntPtr`0" priority="0" />
+      <Item value="Queue`0" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="size" priority="1" />
+      <Item value="queueArray" priority="4" />
+      <Item value="rear" priority="4" />
+      <Item value="nItems" priority="8" />
+      <Item value="queueSize" priority="4" />
+      <Item value="cw" priority="1" />
+      <Item value="i" priority="0" />
+      <Item value="front" priority="3" />
+      <Item value="Link`0" priority="15" />
+      <Item value="LinkedList`0" priority="0" />
+      <Item value="first" priority="14" />
+      <Item value="null" priority="6" />
+      <Item value="InvalidTimeZoneException`0" priority="0" />
+      <Item value="newLink" priority="6" />
+      <Item value="data" priority="1" />
+      <Item value="Data" priority="0" />
+      <Item value="current" priority="14" />
+      <Item value="previous" priority="1" />
+      <Item value="SerializableAttribute`0" priority="0" />
+      <Item value="First" priority="5" />
+      <Item value="Last" priority="0" />
+      <Item value="Link" priority="0" />
+      <Item value="IsEmpty`0" priority="0" />
+      <Item value="fixed" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Random">
+      <Item value="Next`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SDA.Queue">
+      <Item value="Size" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:LinkedList.Link">
+      <Item value="Data" priority="2" />
+      <Item value="Next" priority="9" />
+      <Item value="DisplayLink`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:DoubleLinkedList.Link">
+      <Item value="Next" priority="0" />
+      <Item value="Previous" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Program.cs" caret="5" fromTop="0" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BinarySearch.cs" caret="645" fromTop="23" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BubbleSort.cs" caret="267" fromTop="14" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:IStack.cs" caret="153" fromTop="10" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:IQueue.cs" caret="184" fromTop="10" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="862" fromTop="38" />
+      <File id="D5D5AA03-2193-451E-8E8F-4FE437E843FF/f:Link.cs" caret="307" fromTop="14" />
+      <File id="D5D5AA03-2193-451E-8E8F-4FE437E843FF/f:LinkedList.cs" caret="620" fromTop="15" />
+      <File id="847AD4C7-25B5-497E-BAD4-BE28D83D4AED/f:Link.cs" caret="286" fromTop="14" />
+      <File id="847AD4C7-25B5-497E-BAD4-BE28D83D4AED/f:DoubleLinkedList.cs" caret="638" fromTop="28" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BinarySearch.cs" caret="144" fromTop="4" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BinarySearch.cs" caret="1030" fromTop="39" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BinarySearch.cs" caret="557" fromTop="24" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BinarySearch.cs" caret="828" fromTop="25" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BinarySearch.cs" caret="654" fromTop="23" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BubbleSort.cs" caret="165" fromTop="9" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BubbleSort.cs" caret="544" fromTop="22" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BubbleSort.cs" caret="792" fromTop="32" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:BubbleSort.cs" caret="276" fromTop="14" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:IStack.cs" caret="0" fromTop="0" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:IStack.cs" caret="153" fromTop="10" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:IQueue.cs" caret="294" fromTop="14" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="172" fromTop="9" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="489" fromTop="22" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="900" fromTop="38" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="616" fromTop="22" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="890" fromTop="34" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="985" fromTop="39" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="1073" fromTop="42" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="1168" fromTop="42" />
+      <File id="FE5B7DBF-B07A-40CE-8B46-921A933A5121/f:Queue.cs" caret="1247" fromTop="42" />
+      <File id="D5D5AA03-2193-451E-8E8F-4FE437E843FF/f:Link.cs" caret="90" fromTop="4" />
+      <File id="D5D5AA03-2193-451E-8E8F-4FE437E843FF/f:LinkedList.cs" caret="528" fromTop="27" />
+      <File id="D5D5AA03-2193-451E-8E8F-4FE437E843FF/f:Link.cs" caret="307" fromTop="14" />
+      <File id="D5D5AA03-2193-451E-8E8F-4FE437E843FF/f:LinkedList.cs" caret="1853" fromTop="42" />
+      <File id="D5D5AA03-2193-451E-8E8F-4FE437E843FF/f:LinkedList.cs" caret="1624" fromTop="42" />
+      <File id="847AD4C7-25B5-497E-BAD4-BE28D83D4AED/f:Link.cs" caret="230" fromTop="10" />
+      <File id="847AD4C7-25B5-497E-BAD4-BE28D83D4AED/f:Link.cs" caret="295" fromTop="14" />
+      <File id="847AD4C7-25B5-497E-BAD4-BE28D83D4AED/f:DoubleLinkedList.cs" caret="297" fromTop="11" />
+      <File id="847AD4C7-25B5-497E-BAD4-BE28D83D4AED/f:DoubleLinkedList.cs" caret="782" fromTop="34" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+</Configuration>
