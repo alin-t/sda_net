@@ -18,6 +18,7 @@ namespace SDA
             this.queueSize = size;
             queueArray = new int[size];
 
+
             front = 0;
             rear = -1;
             nItems = 0;
